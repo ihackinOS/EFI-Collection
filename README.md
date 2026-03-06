@@ -14,13 +14,14 @@ Simply **download → copy → reboot**, and your system is ready.
 
 Includes EFI folders for the most common Intel desktop generations:
 
-- Desktop-Coffeelake - https://usersdrive.com/dqn2pryok82z.html
-- Desktop-Cometlake - https://usersdrive.com/8zcmk5ch7d2x.html
-- Desktop-Haswell - https://usersdrive.com/m42lxt7h1yx0.html
-- Desktop-IvyBridge - https://usersdrive.com/xgnfidtny9t2.html
-- Desktop-Kabylake - https://usersdrive.com/vlviji49vo4p.html
-- Desktop-SandyBridge - https://usersdrive.com/a2xbtqhmsl64.html
-- Desktop-Skylake - https://usersdrive.com/zj1afv51x58z.html
+- Desktop-SandyBridge - https://cuty.io/DSandyBridge
+- Desktop-IvyBridge - https://cuty.io/DIvyBridge
+- Desktop-Haswell - https://cuty.io/DHaswell
+- Desktop-Broadwell - https://cuty.io/DBroadwell
+- Desktop-Skylake - https://cuty.io/DSkylake
+- Desktop-Kabylake - https://cuty.io/DKabyLake
+- Desktop-Coffeelake - https://cuty.io/DCoffeeLake
+- Desktop-Cometlake - https://cuty.io/DCometLake
 
 **Optimizations included:**
 - Reliability & stable performance  
@@ -32,15 +33,14 @@ Includes EFI folders for the most common Intel desktop generations:
 
 A complete EFI set for various laptop generations:
 
-- Laptop-Broadwell - https://usersdrive.com/fiffb6d358h3.html
-- Laptop-Coffeelakeplus-Cometlake - https://usersdrive.com/6v76ui86zkkq.html 
-- Laptop-Coffeelake-Whiskeylake - https://usersdrive.com/nq36itscjc9v.html 
-- Laptop-Haswell - https://usersdrive.com/4agl2ykoxy90.html
-- Laptop-Icelake - https://usersdrive.com/nls7uyoparf9.html
-- Laptop-IvyBridge - https://usersdrive.com/ezcxkdrnh7jc.html 
-- Laptop-Kabylake - https://usersdrive.com/yw8mmim6r4lo.html 
-- Laptop-SandyBridge - https://usersdrive.com/ynk1lnfs6un9.html
-- Laptop-Skylake - https://usersdrive.com/01tvv1u3zj9z.html
+- Laptop-SandyBridge - https://cuty.io/LSandyBridge
+- Laptop-IvyBridge - https://cuty.io/LIvyBridge
+- Laptop-Haswell - https://cuty.io/LHaswell
+- Laptop-Skylake - https://cuttlinks.com/LSkylake
+- Laptop-Kabylake - https://cuty.io/LKabyLake
+- Laptop-Coffeelake-Whiskeylake - https://cuty.io/LCoWhisLake
+- Laptop-Coffeelakeplus-Cometlake - https://cuty.io/LCoffComet
+- Laptop-Icelake - https://cuty.io/LIceLake
 
 **Laptop-specific patches included:**
 - Trackpad (I2C/PS2) drivers  

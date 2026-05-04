@@ -14,14 +14,22 @@ Simply **download → copy → reboot**, and your system is ready.
 
 Includes EFI folders for the most common Intel desktop generations:
 
-- Desktop-SandyBridge - https://cuty.io/DSandyBridge
-- Desktop-IvyBridge - https://cuty.io/DIvyBridge
-- Desktop-Haswell - https://cuty.io/DHaswell
-- Desktop-Broadwell - https://cuty.io/DBroadwell
-- Desktop-Skylake - https://cuty.io/DSkylake
-- Desktop-Kabylake - https://cuty.io/DKabyLake
-- Desktop-Coffeelake - https://cuty.io/DCoffeeLake
-- Desktop-Cometlake - https://cuty.io/DCometLake
+- Download: *[Desktop Bulldozer](https://cuty.io/DBulldozer)*
+- Download: *[Desktop Jaguar](https://cuty.io/DJaguar)*
+- Download: *[Desktop Ryzer](https://cuty.io/DRyzen)*
+- Download: *[Desktop Threadripper](https://cuty.io/DThreadriper)*
+- Download: *[Desktop Sandy Bridge](https://cuty.io/DSandyBridg)*
+- Download: *[Desktop Ivy Bridge](https://cuty.io/DIvyBridg)*
+- Download: *[Desktop Haswell](https://cuty.io/DHaswel)*
+- Download: *[Desktop SkyLake](https://cuty.io/DSkylak)*
+- Download: *[Desktop KabyLake](https://cuty.io/DKabyLak)*
+- Download: *[Desktop CoffeeLake](https://cuty.io/DCoffeeLak)*
+- Download: *[Desktop CometLake](https://cuty.io/DCometLak)*
+- Download: *[Desktop RocketLake](https://cuty.io/DRocketLak)*
+- Download: *[Desktop AlderLake](https://cuty.io/DAlderLake)*
+- Download: *[Desktop MeteorLake](https://cuty.io/DMeteorLake)*
+- Download: *[Desktop RaptorLake](https://cuty.io/DRaptorLake)*
+- Download: *[Desktop Ultra](https://cuty.io/DUltra)*
 
 **Optimizations included:**
 - Reliability & stable performance  
@@ -33,14 +41,18 @@ Includes EFI folders for the most common Intel desktop generations:
 
 A complete EFI set for various laptop generations:
 
-- Laptop-SandyBridge - https://cuty.io/LSandyBridge
-- Laptop-IvyBridge - https://cuty.io/LIvyBridge
-- Laptop-Haswell - https://cuty.io/LHaswell
-- Laptop-Skylake - https://cuttlinks.com/LSkylake
-- Laptop-Kabylake - https://cuty.io/LKabyLake
-- Laptop-Coffeelake-Whiskeylake - https://cuty.io/LCoWhisLake
-- Laptop-Coffeelakeplus-Cometlake - https://cuty.io/LCoffComet
-- Laptop-Icelake - https://cuty.io/LIceLake
+- Download: *[Laptop Jaguar:
+- Download: *[Laptop Ryzen:
+- Download: *[Laptop SandyBridge:
+- Download: *[Laptop IvyBridge:
+- Download: *[Laptop Haswell:
+- Download: *[Laptop SkyLake:
+- Download: *[Laptop KabyLake:
+- Download: *[Laptop Coffeelake
+- Download: *[Laptop Whiskeylake:
+- Download: *[Laptop CoffeeLakePlus:
+- Download: *[Laptop CometLake:
+- Download: *[Laptop-IceLake:
 
 **Laptop-specific patches included:**
 - Trackpad (I2C/PS2) drivers  

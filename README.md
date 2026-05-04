@@ -30,6 +30,14 @@ Includes EFI folders for the most common Intel desktop generations:
 - Download: *[Desktop MeteorLake](https://cuty.io/DMeteorLake)*
 - Download: *[Desktop RaptorLake](https://cuty.io/DRaptorLake)*
 - Download: *[Desktop Ultra](https://cuty.io/DUltra)*
+- Download: *[HEDT Broadwell-E](https://cuty.io/HDBroadwellE)*
+- Download: *[HEDT Cascade Lake-XW](https://cuty.io/HECascadeLak)*
+- Download: *[HEDT Broadwell-E](https://cuty.io/HDHaswellE)*
+- Download: *[HEDT Ivry Bridge-E](https://cuty.io/HDIvyBridgeE)*
+- Download: *[HEDT Nehalem](https://cuty.io/HDNehalem)*
+- Download: *[HEDT Sandy Bridge-E](https://cuty.io/HDSandyBridg)*
+- Download: *[HEDT Sky Lake-XW](https://cuty.io/HDSkylakeXW)*
+- Download: *[HEDT Westmere](https://cuty.io/HDWestmere)*
 
 **Optimizations included:**
 - Reliability & stable performance  

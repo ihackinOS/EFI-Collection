@@ -41,18 +41,18 @@ Includes EFI folders for the most common Intel desktop generations:
 
 A complete EFI set for various laptop generations:
 
-- Download: *[Laptop Jaguar:
-- Download: *[Laptop Ryzen:
-- Download: *[Laptop SandyBridge:
-- Download: *[Laptop IvyBridge:
-- Download: *[Laptop Haswell:
-- Download: *[Laptop SkyLake:
-- Download: *[Laptop KabyLake:
-- Download: *[Laptop Coffeelake
-- Download: *[Laptop Whiskeylake:
-- Download: *[Laptop CoffeeLakePlus:
-- Download: *[Laptop CometLake:
-- Download: *[Laptop-IceLake:
+- Download: *[Laptop Jaguar](https://cuty.io/LJaguar)*
+- Download: *[Laptop Ryzen](https://cuty.io/LRyzen)*
+- Download: *[Laptop SandyBridge](https://cuty.io/LSandyBridg)*
+- Download: *[Laptop IvyBridge](https://cuty.io/LIvyBridg)*
+- Download: *[Laptop Haswell](https://cuty.io/LHaswel)*
+- Download: *[Laptop SkyLake](https://cuty.io/LSkylak)*
+- Download: *[Laptop KabyLake](https://cuty.io/LKabyLak)*
+- Download: *[Laptop Coffeelake](https://cuty.io/LCoffeeLak)*
+- Download: *[Laptop Whiskeylake](https://cuty.io/LWhiskeyLak)*
+- Download: *[Laptop CoffeeLakePlus](https://cuty.io/LCoffeeLakeP)*
+- Download: *[Laptop CometLake](https://cuty.io/LCometLak)*
+- Download: *[Laptop-IceLake](https://cuty.io/LIceLak)*
 
 **Laptop-specific patches included:**
 - Trackpad (I2C/PS2) drivers  

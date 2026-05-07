@@ -32,7 +32,7 @@ Includes EFI folders for the most common Intel desktop generations:
 - Download: *[Desktop Ultra](https://cuty.io/DUltra)*
 - Download: *[HEDT Broadwell-E](https://cuty.io/HDBroadwellE)*
 - Download: *[HEDT Cascade Lake-XW](https://cuty.io/HECascadeLak)*
-- Download: *[HEDT Broadwell-E](https://cuty.io/HDHaswellE)*
+- Download: *[HEDT Haswell-E](https://cuty.io/HDHaswellE)*
 - Download: *[HEDT Ivry Bridge-E](https://cuty.io/HDIvyBridgeE)*
 - Download: *[HEDT Nehalem](https://cuty.io/HDNehalem)*
 - Download: *[HEDT Sandy Bridge-E](https://cuty.io/HDSandyBridg)*
